@@ -2,7 +2,6 @@ title COLOR CHANGER
 echo off
 cls
 set n=0
-set x=9
 :re
 set /a n=%n%+1
 timeout /t 1 >nul
