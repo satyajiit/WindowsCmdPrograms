@@ -1,2 +1,2 @@
 # WindowsCmdPRograms
-Created for fun...Designed to perform some basic tasks!!
+Created for fun...Developed to perform some basic tasks!!
